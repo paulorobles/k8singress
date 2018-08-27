@@ -1,0 +1,1 @@
+C:\github\Source\Repos\k8singress\webapp\myFirstContainerapp\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

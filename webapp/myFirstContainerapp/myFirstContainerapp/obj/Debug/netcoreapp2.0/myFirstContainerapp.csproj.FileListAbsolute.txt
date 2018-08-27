@@ -1,0 +1,11 @@
+C:\github\Source\Repos\k8singress\webapp\myFirstContainerapp\myFirstContainerapp\obj\Debug\netcoreapp2.0\myFirstContainerapp.csproj.CoreCompileInputs.cache
+C:\github\Source\Repos\k8singress\webapp\myFirstContainerapp\myFirstContainerapp\obj\Debug\netcoreapp2.0\myFirstContainerapp.AssemblyInfoInputs.cache
+C:\github\Source\Repos\k8singress\webapp\myFirstContainerapp\myFirstContainerapp\obj\Debug\netcoreapp2.0\myFirstContainerapp.AssemblyInfo.cs
+C:\github\Source\Repos\k8singress\webapp\myFirstContainerapp\myFirstContainerapp\obj\Debug\netcoreapp2.0\myFirstContainerapp.dll
+C:\github\Source\Repos\k8singress\webapp\myFirstContainerapp\myFirstContainerapp\bin\Debug\netcoreapp2.0\myFirstContainerapp.deps.json
+C:\github\Source\Repos\k8singress\webapp\myFirstContainerapp\myFirstContainerapp\bin\Debug\netcoreapp2.0\myFirstContainerapp.runtimeconfig.json
+C:\github\Source\Repos\k8singress\webapp\myFirstContainerapp\myFirstContainerapp\bin\Debug\netcoreapp2.0\myFirstContainerapp.runtimeconfig.dev.json
+C:\github\Source\Repos\k8singress\webapp\myFirstContainerapp\myFirstContainerapp\bin\Debug\netcoreapp2.0\myFirstContainerapp.dll
+C:\github\Source\Repos\k8singress\webapp\myFirstContainerapp\myFirstContainerapp\bin\Debug\netcoreapp2.0\myFirstContainerapp.pdb
+C:\github\Source\Repos\k8singress\webapp\myFirstContainerapp\myFirstContainerapp\obj\Debug\netcoreapp2.0\myFirstContainerapp.pdb
+C:\github\Source\Repos\k8singress\webapp\myFirstContainerapp\myFirstContainerapp\obj\Debug\netcoreapp2.0\myFirstContainerapp.csprojAssemblyReference.cache
